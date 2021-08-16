@@ -2,13 +2,13 @@
 
 Instructions for the front end assignment.
 
-This is the completed boilerplate for a basic React application, with 
-[Babel](https://babeljs.io/), 
-[eslint](https://eslint.org/), 
-[React](https://reactjs.org/), 
-[React Router](https://github.com/ReactTraining/react-router), 
-[Apollo Client (GraphQL)](https://www.apollographql.com/), and 
-[emotion-js](https://github.com/emotion-js/emotion) already configured.  
+This is the completed boilerplate for a basic React application, with
+[Babel](https://babeljs.io/),
+[eslint](https://eslint.org/),
+[React](https://reactjs.org/),
+[React Router](https://github.com/ReactTraining/react-router),
+[Apollo Client (GraphQL)](https://www.apollographql.com/), and
+[emotion-js](https://github.com/emotion-js/emotion) already configured.
 
 Please fork this project when submitting your homework assignment.
 
@@ -16,8 +16,8 @@ Please fork this project when submitting your homework assignment.
 
 **Setup**
 
-A terminal multiplexer is recommended for this project, but is not needed. Multiple terminal windows work too. 
-  
+A terminal multiplexer is recommended for this project, but is not needed. Multiple terminal windows work too.
+
   1. install and start `mongodb`
   2. cd into the webapp directory
   3. run `yarn`
@@ -68,7 +68,7 @@ The completed homework assignment must have a usable interface that loads dynami
 
  * Seed the database.  Possible solutions include:
    * producing a CSV file and endpoint that allows the file to be uploaded through the web server
-   * modifying the web server post install script to ensure the databse is correctly seeded instead
+   * modifying the web server post install script to ensure the database is correctly seeded instead
 
  * Add an i18n setting.  This is easily done in a couple of ways.
    * Via URL (eg `?i18n=true`) that turns all of the display text into gibberish (eg replace the front with something that does not use a latin based charset).

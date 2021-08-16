@@ -60,6 +60,7 @@
     "@apollo/react-hoc": "4.0.0",
     "@apollo/react-hooks": "4.0.0",
     "@emotion/core": "10.0.10",
+    "@emotion/react": "^11.4.1",
     "@emotion/styled": "10.0.12",
     "axios": "0.21.1",
     "emotion-theming": "10.0.10",
@@ -68,8 +69,12 @@
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
+    "react-google-charts": "^3.0.15",
     "react-hot-loader": "4.11.0",
-    "react-router-dom": "5.0.1"
+    "react-icons": "^4.2.0",
+    "react-router-dom": "5.0.1",
+    "react-table": "^7.7.0",
+    "react-uuid": "^1.0.2"
   },
   "devDependencies": {
     "@apollo/react-testing": "4.0.0",
